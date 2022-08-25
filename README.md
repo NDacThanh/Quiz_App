@@ -1,6 +1,8 @@
 # TRACNGHIEM
 Link Script Database: https://github.com/NDacThanh/Script_TN
-##########################################################
+
+
+
 Phân tán cơ sở dữ liệu THITN ra làm 3 mảnh với điều kiện sau: 
 -	THITN được đặt trên server1: chứa thông tin của các lớp, đăng ký thi trắc nghiệm của các lớp thuộc cơ sở 1.
 -	THITN được đặt trên server2: chứa thông tin của các lớp, đăng ký thi trắc nghiệm của các lớp thuộc cơ sở 2.
